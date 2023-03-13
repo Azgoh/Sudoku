@@ -141,7 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Grid.cpp" />
     <ClCompile Include="Square.cpp" />
-    <ClCompile Include="SUDOKU NT.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Grid.h" />
